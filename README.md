@@ -7,5 +7,8 @@ DKSR contributed to this project by creating a data plattform and connectors.
 Virtual City Systems contributed to this project by creating a digital twin of the city.
 
 Immovativ contributed to this project by creating a marketing plattform for municipal properties.
+<<<<<<< HEAD
 
 If you have any questions about this project feel free to ask!
+=======
+>>>>>>> d3498aa7b5a126e9ea87cceb0b20026158b3c93c
