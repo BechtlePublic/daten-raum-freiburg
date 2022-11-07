@@ -7,3 +7,6 @@
 [submodule "VirtualCitySystems/freiburg-traffic"]
 	path = VirtualCitySystems/freiburg-traffic
 	url = git@github.com:virtualcitySYSTEMS/freiburg-traffic.git
+[submodule "Virtual-City-Systems/freiburg-traffic"]
+	path = Virtual-City-Systems/freiburg-traffic
+	url = git@github.com:virtualcitySYSTEMS/freiburg-traffic.git
