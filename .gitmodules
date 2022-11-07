@@ -4,3 +4,6 @@
 [submodule "DKSR/DKSR-Connector"]
 	path = DKSR/DKSR-Connector
 	url = git@github.com:DKSR-Data-Competence-for-Cities-Regions/DKSR-Connector.git
+[submodule "VirtualCitySystems/freiburg-traffic"]
+	path = VirtualCitySystems/freiburg-traffic
+	url = git@github.com:virtualcitySYSTEMS/freiburg-traffic.git
