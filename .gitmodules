@@ -1,0 +1,3 @@
+[submodule "DKSR/DKSR-Open-UrbanPulse"]
+	path = DKSR/DKSR-Open-UrbanPulse
+	url = git@github.com:DKSR-Data-Competence-for-Cities-Regions/DKSR-Open-UrbanPulse.git
