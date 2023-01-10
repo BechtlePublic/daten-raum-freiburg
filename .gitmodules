@@ -10,3 +10,6 @@
 [submodule "Virtual-City-Systems/freiburg-traffic"]
 	path = Virtual-City-Systems/freiburg-traffic
 	url = git@github.com:virtualcitySYSTEMS/freiburg-traffic.git
+[submodule "Immovativ/vermarktungsplattform_os"]
+	path = Immovativ/vermarktungsplattform_os
+	url = https://github.com/immovativ/vermarktungsplattform_os.git
